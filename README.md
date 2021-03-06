@@ -4,5 +4,5 @@
 - 🌱 I’m learning R :D :purple_heart:
 - 💬 Ask me about bioinformatics, genomics or whatever!!
 - 😄 Pronouns: Ella/she/her
-- Fun fact: I have worked with the three life domains: 🦠 Bacteria,  :monkey: Eukarya and 🦠 Archaea!!
+- :ocean: Fun fact: I have worked with the three life domains: 🦠 Bacteria,  :monkey: Eukarya and 🦠 Archaea!!
 
